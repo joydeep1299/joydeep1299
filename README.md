@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Joydeep Kar</h1>
-<h3 align="center">A passionate frontend & wordpress developer from Bangladesh</h3>
+![Design and Development](https://github.com/joydeep1299/Portfolio/blob/master/public/images/portfolio-ui.jpg)
 
-- 🔭 I’m currently working on [My Portfolio Website](joydeep1299.github.io/Portfolio/public)
+# Joydeep Kar Deep
+I'm Joydeep from Bangladesh..................
+## Skills and Experience
+* 💻 HTML, CSS, JS
+* 
 
-- 🌱 I’m currently learning **PHP & Python**
-
-- 📫 How to reach me **joydeep1299@gamil.com**
+## Examples of Work
+<img src="https://github.com/joydeep1299/Portfolio/blob/master/public/images/paralax.gif" width="512" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
